@@ -1,0 +1,392 @@
+,Unnamed: 0,trial,tongue_contact,water_drop_stable,water_spilled,percentage_consumed,outcome,outcome_classification,raw_answers,confidence
+0,0,28, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it to its mouth, and the tongue made clear contact with the water, indicating full consumption.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it to its mouth, and the tongue made clear contact with the water, indicating full consumption.  
+6. 0:00 - 1:00: The mouse is positioned with its paws on the edge, preparing to reach. 1:00 - 1:15: The water drop forms and remains attached to the spout. 1:15 - 1:30: The mouse's right paw lifts and moves toward the water drop. 1:30 - 1:45: The mouse's paw touches the water drop, and the drop adheres to the paw. 1:45 - 2:00: The mouse brings the water drop to its mouth, and the tongue makes contact with the water. 2:00 - 4:45: The mouse continues to consume the water drop, with the tongue licking the water from the paw.  
+7. 95%", 95%
+1,1,25, No, Yes, No,0.0,f," Failed: The mouse did not make physical contact with the water drop, and no water was consumed. The tongue did not touch the drop, and the paw did not bring the drop to the mouth. The water drop remained on the spout, and no retrieval occurred.","1. No  
+2. Yes  
+3. No  
+4. 0%  
+5. Failed: The mouse did not make physical contact with the water drop, and no water was consumed. The tongue did not touch the drop, and the paw did not bring the drop to the mouth. The water drop remained on the spout, and no retrieval occurred.  
+6. 0:00 - 1:00: Mouse remains stationary, paws on the surface, no movement toward the spout.  
+1:01 - 1:05: Mouse lifts its right paw and moves it toward the spout.  
+1:06 - 1:10: Right paw touches the water drop, but the drop does not detach.  
+1:11 - 1:15: Water drop remains on the spout, no transfer to the mouth.  
+1:16 - 4:45: Mouse continues to hold its paw near the spout, no further interaction with the water drop.  
+7. 95%", 95%
+2,2,27,,,,,f,,"1. No  
+2. Yes  
+3. No  
+4. 0%  
+5. Failed: The mouse did not make physical contact with the water drop, and no water was retrieved. The tongue did not touch the drop, and the paw did not bring the drop to the mouth. There is no visual evidence of any water being consumed.  
+6. 0:00 - 0:10: The mouse is positioned in the apparatus, with its right paw resting on the platform.  
+0:11 - 0:20: The mouse lifts its right paw and extends it toward the spout.  
+0:21 - 0:30: The mouse's paw approaches the spout, but the water drop remains attached.  
+0:31 - 0:40: The mouse's paw touches the spout, but the water drop does not detach.  
+0:41 - 0:50: The mouse retracts its paw without any water being collected.  
+0:51 - 1:00: The mouse continues to attempt reaching the spout, but no water is retrieved.  
+1:01 - 1:10: The mouse's paw remains near the spout, but no contact with the water drop is made.  
+1:11 - 1:20: The mouse's paw moves away from the spout, and no water is consumed.  
+1:21 - 1:30: The mouse remains in the apparatus, with no further attempts to retrieve water.  
+1:31 - 1:40: The mouse's paw is still not in contact with the water drop.  
+1:41 - 1:50: The mouse's paw is lifted again, but no water is collected.  
+1:51 - 2:00: The mouse's paw is lowered, and no water is retrieved.  
+2:01 - 2:10: The mouse's paw is positioned near the spout, but no water is collected.  
+2:11 - 2:20: The mouse's paw is lifted, and no water is retrieved.  
+2:21 - 2:30: The mouse's paw is lowered, and no water is collected.  
+2:31 - 2:40: The mouse's paw is positioned near the spout, but no water is retrieved.  
+2:41 - 2:50: The mouse's paw is lifted, and no water is collected.  
+2:51 - 3:00: The mouse's paw is lowered, and no water is retrieved.  
+3:01 - 3:10: The mouse's paw is positioned near the spout, but no water is collected.  
+3:11 - 3:20: The mouse's paw is lifted, and no water is retrieved.  
+3:21 - 3:30: The mouse's paw is lowered, and no water is collected.  
+3:31 - 3:40: The mouse's paw is positioned near the spout, but no water is retrieved.  
+3:41 - 3:50: The mouse's paw is lifted, and no water is collected.  
+3:51 - 4:00: The mouse's paw is lowered, and no water is retrieved.  
+4:01 - 4:10: The mouse's paw is positioned near the spout, but no water is collected.  
+4:11 - 4:20: The mouse's paw is lifted, and no water is retrieved.  
+4:21 - 4:30: The mouse's paw is lowered, and no water is collected.  
+4:31 - 4:40: The mouse's paw is positioned near the spout, but no water is retrieved.  
+4:41 - 4:50: The mouse's paw is lifted, and no water is collected.  
+4:51 - 5:00: The mouse's paw is lowered, and no water is retrieved.  
+5:01 - 5:10: The mouse's paw is positioned near the spout, but no water is collected.  
+5:11 - 5:20: The mouse's paw is lifted, and no water is retrieved.  
+5:21 - 5:30: The mouse's paw is lowered, and no water is collected.  
+5:31 - 5:40: The mouse's paw is positioned near the spout, but no water is retrieved.  
+5:41 - 5:50: The mouse's paw is lifted, and no water is collected.  
+5:51 - 6:00: The mouse",
+3,3,18, No, Yes, No,0.0,f," Failed: The mouse did not make physical contact with the water drop, and no water was retrieved. The tongue did not touch the drop, and the paw did not bring the drop to the mouth. The water drop remained on the spout without being consumed.","1. No  
+2. Yes  
+3. No  
+4. 0%  
+5. Failed: The mouse did not make physical contact with the water drop, and no water was retrieved. The tongue did not touch the drop, and the paw did not bring the drop to the mouth. The water drop remained on the spout without being consumed.  
+6. 0:00 - 0:25: The mouse is positioned in the apparatus with its head fixed. The water drop is visible on the spout.  
+0:26 - 0:35: The mouse extends its right paw toward the spout but does not touch the water drop.  
+0:36 - 0:45: The mouse retracts its paw without making contact with the water drop.  
+0:46 - 1:00: The mouse remains stationary, and the water drop stays attached to the spout.  
+1:01 - 1:10: The mouse attempts to reach the water drop again but fails to make contact.  
+1:11 - 1:20: The mouse retracts its paw, and the water drop remains on the spout.  
+1:21 - 1:30: The mouse continues to attempt reaching the water drop but does not succeed.  
+1:31 - 1:40: The water drop remains on the spout, and the mouse does not retrieve any water.  
+1:41 - 1:50: The mouse remains in the same position, and no further attempts are made.  
+1:51 - 2:00: The video ends with the water drop still attached to the spout and the mouse not having consumed any water.  
+7. 95%", 95%
+4,4,4, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it close to its mouth, and the tongue made physical contact with the water drop, indicating full consumption.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it close to its mouth, and the tongue made physical contact with the water drop, indicating full consumption.  
+6. 0:00 - 1:15: The mouse is stationary with both paws on the surface.  
+   1:16 - 1:20: The water drop forms on the spout.  
+   1:21 - 1:25: The mouse's right paw lifts and moves toward the water drop.  
+   1:26 - 1:30: The right paw touches the water drop.  
+   1:31 - 1:35: The water drop is transferred to the mouse's mouth.  
+   1:36 - 4:45: The mouse licks the water drop with its tongue.  
+7. 95%", 95%
+5,5,1, Yes, Yes, No,100.0,s," Classification: Successful  
+Justification: The mouse's right paw reached the water drop on the spout, and the water drop was fully transferred to the mouse's mouth. The mouse's tongue made physical contact with the water drop, and the entire drop was consumed. There is no evidence of the water drop being dropped or splashed. The mouse successfully retrieved and consumed the entire water drop.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Classification: Successful  
+Justification: The mouse's right paw reached the water drop on the spout, and the water drop was fully transferred to the mouse's mouth. The mouse's tongue made physical contact with the water drop, and the entire drop was consumed. There is no evidence of the water drop being dropped or splashed. The mouse successfully retrieved and consumed the entire water drop.  
+6. Timeline of key events:  
+0:00 - 0:10: The mouse is positioned in front of the spout with its right paw resting on the surface.  
+0:10 - 0:20: The water drop forms on the spout.  
+0:20 - 0:30: The mouse's right paw lifts and moves towards the water drop.  
+0:30 - 0:40: The mouse's right paw makes contact with the water drop, and the drop adheres to the paw.  
+0:40 - 0:50: The mouse brings the water drop close to its mouth.  
+0:50 - 1:00: The mouse's tongue makes physical contact with the water drop, and the drop is consumed.  
+1:00 - 1:10: The mouse continues to consume the water drop, and the entire drop is ingested.  
+7. Confidence: 95%", Confidence: 95%
+6,6,16, No, Yes, No,0.0,f," Failed: The mouse retrieved little or none of the water (less than 40%). The mouse's tongue did not make physical contact with the water drop, and no water was transferred to the mouth. The water drop remained on the spout and was not consumed.","1. No  
+2. Yes  
+3. No  
+4. 0%  
+5. Failed: The mouse retrieved little or none of the water (less than 40%). The mouse's tongue did not make physical contact with the water drop, and no water was transferred to the mouth. The water drop remained on the spout and was not consumed.  
+6. 0:00 - 0:30: The mouse is positioned in the apparatus, with its right paw resting on the platform. The water drop is visible on the spout.  
+0:30 - 0:40: The mouse extends its right paw toward the spout, but the water drop remains attached to the spout.  
+0:40 - 0:50: The mouse's paw touches the water drop, but the drop does not detach or move toward the mouth.  
+0:50 - 1:00: The mouse retracts its paw without any water being transferred.  
+1:00 - 1:10: The mouse attempts to lick the spout, but the tongue does not make contact with the water drop.  
+1:10 - 1:20: The mouse continues to attempt reaching the water drop with its paw, but no water is retrieved.  
+7. 95%", 95%
+7,7,29, No, Yes, No,0.0,f," Failed: The mouse did not make physical contact with the water drop, and no water was consumed. The tongue did not touch the drop, and the paw did not bring the drop to the mouth. There is no observable evidence of water retrieval or consumption.","1. No  
+2. Yes  
+3. No  
+4. 0%  
+5. Failed: The mouse did not make physical contact with the water drop, and no water was consumed. The tongue did not touch the drop, and the paw did not bring the drop to the mouth. There is no observable evidence of water retrieval or consumption.  
+6. 0:00 - 1:00: Mouse is stationary, paws on the edge.  
+1:00 - 1:10: Mouse lifts its right paw.  
+1:10 - 1:20: Right paw approaches the spout, but no contact with the water drop is observed.  
+1:20 - 1:30: Right paw retracts without any water transfer.  
+1:30 - 4:40: Mouse remains stationary, no further interaction with the spout.  
+7. 95%", 95%
+8,8,2, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made contact with the water drop on the spout, and brought the drop directly to its mouth. The tongue made clear physical contact with the water, and the mouse consumed the entire drop without spillage. The water drop was fully transferred to the mouth and licked, indicating complete retrieval.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made contact with the water drop on the spout, and brought the drop directly to its mouth. The tongue made clear physical contact with the water, and the mouse consumed the entire drop without spillage. The water drop was fully transferred to the mouth and licked, indicating complete retrieval.  
+6. 0:00 - 1:25: The mouse remains stationary, paws on the surface, head fixed.  
+1:26 - 1:30: The water drop forms and remains attached to the spout.  
+1:31 - 1:35: The mouse extends its right paw toward the water drop.  
+1:36 - 1:40: The right paw touches the water drop, and the drop adheres to the paw.  
+1:41 - 4:45: The mouse brings the water drop to its mouth and licks it, consuming the entire drop.  
+7. 95%", 95%
+9,9,17, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made physical contact with the water drop on the spout, and brought the drop directly to its mouth. The tongue made clear contact with the water, and the mouse consumed the entire drop without spillage. The water drop was fully transferred to the mouth and licked, indicating complete retrieval.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made physical contact with the water drop on the spout, and brought the drop directly to its mouth. The tongue made clear contact with the water, and the mouse consumed the entire drop without spillage. The water drop was fully transferred to the mouth and licked, indicating complete retrieval.  
+6. 0:00 - 1:05: The mouse is stationary, head fixed, with both paws resting on the platform.  
+1:06 - 1:15: The mouse lifts its right paw and moves it toward the spout.  
+1:16 - 1:20: The right paw makes contact with the water drop on the spout.  
+1:21 - 1:25: The mouse brings the water drop close to its mouth.  
+1:26 - 4:45: The mouse licks the water drop with its tongue, consuming it entirely.  
+7. 95%", 95%
+10,10,8, No, Yes, No,0.0,f," Failed: The mouse did not make physical contact with the water drop, and no water was transferred to its mouth. The tongue did not touch the drop, and the paw did not bring the drop close enough for consumption. There is no visual evidence of any water being retrieved or ingested.","1. No  
+2. Yes  
+3. No  
+4. 0%  
+5. Failed: The mouse did not make physical contact with the water drop, and no water was transferred to its mouth. The tongue did not touch the drop, and the paw did not bring the drop close enough for consumption. There is no visual evidence of any water being retrieved or ingested.  
+6. 0:00 - 0:59: The mouse is stationary, with both paws resting on the surface.  
+0:59 - 1:02: The mouse lifts its right paw.  
+1:02 - 1:05: The right paw approaches the spout, and the water drop is visible on the spout.  
+1:05 - 1:08: The right paw touches the water drop, but the drop does not detach.  
+1:08 - 1:10: The right paw moves away from the spout without retrieving the drop.  
+1:10 - 4:45: The mouse remains in place, with no further interaction with the water drop.  
+7. 95%", 95%
+11,11,6, Yes, Yes, No,100.0,s," Classification: Successful  
+Justification: The mouse's right paw reached the water drop on the spout, and the tongue made clear physical contact with the water. The water drop was fully consumed, as indicated by the complete disappearance of the drop and the mouse's repeated licking motions. There is no evidence of spillage or incomplete retrieval.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Classification: Successful  
+Justification: The mouse's right paw reached the water drop on the spout, and the tongue made clear physical contact with the water. The water drop was fully consumed, as indicated by the complete disappearance of the drop and the mouse's repeated licking motions. There is no evidence of spillage or incomplete retrieval.  
+6. Timeline of key events:  
+0:00 - 0:30: The mouse remains stationary with both paws on the surface, head fixed.  
+0:30 - 0:40: The mouse lifts its right paw and extends it toward the spout.  
+0:40 - 0:50: The right paw makes contact with the water drop on the spout.  
+0:50 - 1:00: The water drop is transferred to the mouth area, and the tongue begins to lick the water.  
+1:00 - 4:45: The mouse continues to lick the water, with the tongue making repeated contact. The water drop is fully consumed.  
+7. Confidence: 95%", Confidence: 95%
+12,12,7, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made physical contact with the water drop, and brought it to its mouth. The tongue made direct contact with the water drop, and the mouse consumed the entire drop without spillage. The water drop was fully retrieved and ingested, indicating a successful outcome.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made physical contact with the water drop, and brought it to its mouth. The tongue made direct contact with the water drop, and the mouse consumed the entire drop without spillage. The water drop was fully retrieved and ingested, indicating a successful outcome.  
+6. 0:00 - 1:19: The mouse remains stationary with both paws on the surface.  
+1:20 - 1:25: The mouse extends its right paw toward the spout.  
+1:26 - 1:30: The mouse's right paw makes contact with the water drop.  
+1:31 - 1:35: The mouse brings the water drop to its mouth.  
+1:36 - 4:45: The mouse licks the water drop, consuming it entirely.  
+7. 95%", 95%
+13,13,30, No, Yes, No,0.0,f," Failed: The mouse did not make physical contact with the water drop, and no water was transferred to its mouth. The tongue did not touch the drop, and the paw did not bring the drop close enough to the mouth for consumption. There is no visual evidence of any water being retrieved or ingested.","1. No  
+2. Yes  
+3. No  
+4. 0%  
+5. Failed: The mouse did not make physical contact with the water drop, and no water was transferred to its mouth. The tongue did not touch the drop, and the paw did not bring the drop close enough to the mouth for consumption. There is no visual evidence of any water being retrieved or ingested.  
+6. 0:00 - 1:15: The mouse remains stationary with both paws on the platform, showing no movement toward the spout.  
+1:16 - 1:20: The mouse lifts its right paw and extends it toward the spout.  
+1:21 - 1:25: The right paw makes contact with the water drop, which is still attached to the spout.  
+1:26 - 1:30: The water drop detaches from the spout and adheres to the paw.  
+1:31 - 1:35: The mouse brings the paw with the water drop toward its mouth.  
+1:36 - 1:40: The mouse attempts to lick the water from its paw, but the tongue does not make contact with the water drop.  
+1:41 - 4:45: The mouse continues to hold the paw near its mouth, but no further interaction with the water drop occurs.  
+7. 95%", 95%
+14,14,21, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, and the water drop was fully consumed. The mouse's tongue made physical contact with the water drop, and the entire drop was consumed.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, and the water drop was fully consumed. The mouse's tongue made physical contact with the water drop, and the entire drop was consumed.  
+6. 0:00 - 0:30: The mouse is positioned in the apparatus, with its head fixed and paws resting on the platform.  
+0:30 - 0:40: The mouse lifts its right paw and moves it towards the spout.  
+0:40 - 0:50: The mouse's right paw touches the water drop on the spout.  
+0:50 - 1:00: The mouse brings the water drop close to its mouth and begins to lick it.  
+1:00 - 1:10: The mouse continues to lick the water drop, and the entire drop is consumed.  
+1:10 - 1:20: The mouse finishes drinking the water drop and returns its paw to the platform.  
+7. 95%", 95%
+15,15,19, Yes, Yes, No,100.0,s," Classification: Successful  
+Justification: The mouse's right paw reached the spout and made contact with the water drop. The mouse then brought the water drop to its mouth and consumed it entirely, as evidenced by the complete disappearance of the drop and the mouse's licking motions.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Classification: Successful  
+Justification: The mouse's right paw reached the spout and made contact with the water drop. The mouse then brought the water drop to its mouth and consumed it entirely, as evidenced by the complete disappearance of the drop and the mouse's licking motions.  
+6. Timeline of key events:  
+0:00 - 0:25: The mouse is positioned with its paws on the edge of the platform, remaining still.  
+0:26 - 0:35: The mouse lifts its right paw and extends it toward the spout.  
+0:36 - 0:45: The mouse's right paw makes contact with the water drop on the spout.  
+0:46 - 1:00: The mouse brings the water drop to its mouth and begins to lick it.  
+1:01 - 1:10: The mouse continues to lick the water drop, consuming it entirely.  
+1:11 - 1:20: The mouse finishes drinking, and the water drop is no longer visible.  
+7. Confidence: 95%", Confidence: 95%
+16,16,11, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, and the tongue made physical contact with the water. The water drop was fully consumed, as indicated by the absence of the drop and the mouse's licking behavior.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, and the tongue made physical contact with the water. The water drop was fully consumed, as indicated by the absence of the drop and the mouse's licking behavior.  
+6. 0:00 - 0:05: The mouse is positioned in the apparatus, with its right paw resting on the surface.  
+0:06 - 0:10: The mouse lifts its right paw and extends it toward the spout.  
+0:11 - 0:15: The mouse's right paw makes contact with the water drop on the spout.  
+0:16 - 0:20: The mouse brings the water drop close to its mouth, and the tongue makes contact with the water.  
+0:21 - 0:25: The mouse licks the water, and the water drop is consumed.  
+0:26 - 0:30: The mouse continues to lick the remaining water, ensuring all of it is consumed.  
+7. 95%", 95%
+17,17,9, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, and the tongue made direct contact with the water, indicating full consumption. The water drop was fully consumed, as evidenced by the absence of any remaining droplet and the mouse's licking behavior.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, and the tongue made direct contact with the water, indicating full consumption. The water drop was fully consumed, as evidenced by the absence of any remaining droplet and the mouse's licking behavior.  
+6. 0:00 - 0:05: The mouse is positioned with its paws on the platform, and the water drop is visible on the spout.  
+0:06 - 0:10: The mouse extends its right paw toward the spout.  
+0:11 - 0:15: The mouse's paw makes contact with the water drop, and the drop adheres to the paw.  
+0:16 - 0:20: The mouse brings the water drop close to its mouth, and the tongue makes contact with the water.  
+0:21 - 0:25: The mouse licks the water from its paw, consuming the entire drop.  
+7. 95%", 95%
+18,18,15, Yes, Yes, No,100.0,s," Classification: Successful  
+Justification: The mouse's right paw reached the water drop on the spout, brought it close to its mouth, and the tongue made direct contact with the water. The entire water drop was consumed, as evidenced by the absence of any remaining liquid on the spout or in the mouse's mouth after the trial. This indicates that the mouse retrieved most of the water (more than 70%).","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Classification: Successful  
+Justification: The mouse's right paw reached the water drop on the spout, brought it close to its mouth, and the tongue made direct contact with the water. The entire water drop was consumed, as evidenced by the absence of any remaining liquid on the spout or in the mouse's mouth after the trial. This indicates that the mouse retrieved most of the water (more than 70%).  
+6. Timeline of key events:  
+0:00 - 0:05: The water drop is delivered and remains attached to the spout.  
+0:06 - 0:10: The mouse's right paw lifts off the surface and moves toward the spout.  
+0:11 - 0:15: The right paw makes contact with the water drop, retrieving it.  
+0:16 - 0:20: The mouse brings the water drop close to its mouth.  
+0:21 - 0:25: The tongue makes physical contact with the water drop and begins to consume it.  
+0:26 - 0:30: The mouse continues to lick the water drop, consuming it entirely.  
+0:31 - 0:35: The water drop is fully consumed, and no remnants are visible.  
+7. Confidence: 95%", Confidence: 95%
+19,19,3, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it close to its mouth, and the tongue made clear physical contact with the drop, consuming it entirely. There is no visual evidence of spillage or incomplete retrieval.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it close to its mouth, and the tongue made clear physical contact with the drop, consuming it entirely. There is no visual evidence of spillage or incomplete retrieval.  
+6. 0:00 - 0:30: The mouse remains stationary, with both paws on the surface.  
+0:30 - 0:40: The mouse lifts its right paw and moves it toward the spout.  
+0:40 - 0:50: The right paw makes contact with the water drop, which adheres to the paw.  
+0:50 - 1:00: The mouse brings the paw close to its mouth, and the tongue makes contact with the water drop.  
+1:00 - 4:40: The mouse continues to lick the water drop from its paw, consuming it completely.  
+7. 95%", 95%
+20,20,13, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, brought it close to its mouth, and the tongue made clear physical contact with the water. The entire drop was consumed, as evidenced by the absence of any remaining water on the spout or in the paw after the action. This indicates a complete retrieval of the water reward.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, brought it close to its mouth, and the tongue made clear physical contact with the water. The entire drop was consumed, as evidenced by the absence of any remaining water on the spout or in the paw after the action. This indicates a complete retrieval of the water reward.  
+6. 0:00 - 0:45: The mouse remains stationary with its paws on the surface, showing no movement toward the spout.  
+0:46 - 1:00: The mouse lifts its right paw and extends it toward the spout, making contact with the water drop.  
+1:01 - 1:15: The mouse brings the water drop close to its mouth, and the tongue makes contact with the water, initiating drinking.  
+1:16 - 4:45: The mouse continues to consume the water, with the tongue actively licking the drop. The paw remains near the mouth, and the water is fully consumed.  
+7. 95%", 95%
+21,21,20, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop on the spout, and the water was transferred to its mouth. The mouse's tongue made physical contact with the water drop, and the entire drop was consumed.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop on the spout, and the water was transferred to its mouth. The mouse's tongue made physical contact with the water drop, and the entire drop was consumed.  
+6. 0:00 - 0:05: The mouse is positioned in front of the spout with its right paw resting on the platform.  
+0:06 - 0:10: The water drop forms on the spout.  
+0:11 - 0:15: The mouse lifts its right paw and moves it towards the spout.  
+0:16 - 0:20: The mouse's right paw touches the water drop, and the drop adheres to the paw.  
+0:21 - 0:25: The mouse brings its paw to its mouth, and the tongue makes contact with the water drop.  
+0:26 - 0:30: The mouse consumes the water drop, and the drop is fully transferred to its mouth.  
+0:31 - 0:35: The mouse continues to lick the water from its paw, ensuring all of it is consumed.  
+7. 95%", 95%
+22,22,14, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop on the spout, and the tongue made physical contact with the water drop, indicating that the mouse successfully consumed the entire drop.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop on the spout, and the tongue made physical contact with the water drop, indicating that the mouse successfully consumed the entire drop.  
+6. 0:00 - 0:30: The mouse is positioned in the apparatus, with its paws resting on the surface.  
+0:30 - 0:40: The mouse lifts its right paw and moves it towards the spout.  
+0:40 - 0:50: The mouse's right paw makes contact with the water drop on the spout.  
+0:50 - 1:00: The mouse brings the water drop close to its mouth, and the tongue makes physical contact with the water drop.  
+1:00 - 1:10: The mouse consumes the water drop, with the tongue actively licking the water.  
+1:10 - 1:20: The mouse continues to lick the water drop, ensuring it is fully consumed.  
+1:20 - 1:30: The mouse finishes drinking, and the water drop is no longer visible.  
+7. 95%", 95%
+23,23,12, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, brought it close to its mouth, and the tongue made clear physical contact with the water drop. The entire drop was consumed, as evidenced by the absence of any remaining water on the spout or in the mouse's mouth after the trial. The mouse's actions were precise and effective, indicating a complete retrieval of the water.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, brought it close to its mouth, and the tongue made clear physical contact with the water drop. The entire drop was consumed, as evidenced by the absence of any remaining water on the spout or in the mouse's mouth after the trial. The mouse's actions were precise and effective, indicating a complete retrieval of the water.  
+6. 0:00 - 0:40: The mouse remains stationary, with its paws resting on the surface.  
+0:40 - 1:00: The mouse's right paw begins to lift and move toward the spout.  
+1:00 - 1:20: The right paw makes contact with the water drop on the spout.  
+1:20 - 1:40: The mouse brings the water drop close to its mouth, and the tongue makes contact with the water.  
+1:40 - 2:00: The mouse continues to consume the water, with the tongue actively licking the drop.  
+2:00 - 2:20: The mouse finishes drinking, and the water drop is no longer visible on the spout.  
+7. 95%", 95%
+24,24,23, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it to its mouth, and the tongue made clear contact with the drop, indicating full consumption. The drop was fully transferred and consumed without spillage.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%). The mouse's right paw reached the water drop, brought it to its mouth, and the tongue made clear contact with the drop, indicating full consumption. The drop was fully transferred and consumed without spillage.  
+6. 0:00 - 0:45: The mouse remains stationary, paws on the surface, no water drop visible.  
+0:46 - 1:00: The water drop forms and remains attached to the spout.  
+1:01 - 1:15: The mouse lifts its right paw and reaches toward the water drop.  
+1:16 - 1:30: The mouse's paw makes contact with the water drop, and the drop is transferred to the mouth.  
+1:31 - 2:00: The mouse licks the water drop, with visible tongue contact and consumption.  
+2:01 - 2:30: The mouse continues to consume the water, with no spillage observed.  
+2:31 - 3:00: The mouse finishes drinking, and the paw returns to the surface.  
+7. 95%", 95%
+25,25,0, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, and the tongue made clear physical contact with the water. The water drop was fully consumed, as evidenced by the absence of the drop and the wetness on the paw and mouth area. The mouse's behavior indicates complete retrieval and consumption of the water.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse's right paw reached the water drop on the spout, and the tongue made clear physical contact with the water. The water drop was fully consumed, as evidenced by the absence of the drop and the wetness on the paw and mouth area. The mouse's behavior indicates complete retrieval and consumption of the water.  
+6. 0:00 - 0:08: The mouse is stationary, with its right paw resting on the surface.  
+0:09 - 0:15: The mouse lifts its right paw and extends it toward the spout.  
+0:16 - 0:20: The right paw makes contact with the water drop on the spout.  
+0:21 - 0:25: The mouse retracts its paw, bringing the water drop close to its mouth.  
+0:26 - 0:30: The tongue makes physical contact with the water drop, and the mouse begins to lick.  
+0:31 - 0:40: The mouse continues to lick the water, consuming it completely.  
+0:41 - 0:50: The mouse finishes drinking, with no water remaining on the spout.  
+7. 95%", 95%
+26,26,26, Yes, Yes, No,100.0,s," Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made contact with the water drop on the spout, and brought the drop directly to its mouth. The tongue made clear physical contact with the water, and the mouse consumed the entire drop without spillage. The water drop was fully transferred to the mouth and ingested, indicating complete retrieval.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Successful: The mouse retrieved most of the water (more than 70%).  
+Justification: The mouse extended its right paw, made contact with the water drop on the spout, and brought the drop directly to its mouth. The tongue made clear physical contact with the water, and the mouse consumed the entire drop without spillage. The water drop was fully transferred to the mouth and ingested, indicating complete retrieval.  
+6. 0:00 - 1:45: The mouse remains stationary with both paws on the platform, the water drop is visible on the spout.  
+1:46 - 1:50: The mouse extends its right paw toward the spout and makes contact with the water drop.  
+1:51 - 4:45: The mouse brings the water drop to its mouth, and the tongue makes contact with the drop, consuming it entirely.  
+7. 95%", 95%
+27,27,5, Yes, Yes, No,100.0,s," Classification: Successful  
+Justification: The mouse extended its right paw to the spout, made contact with the water drop, and brought it to its mouth. The tongue made clear physical contact with the water, and the mouse consumed the entire drop without spillage. The behavior demonstrates full retrieval and consumption of the reward.","1. Yes  
+2. Yes  
+3. No  
+4. 100%  
+5. Classification: Successful  
+Justification: The mouse extended its right paw to the spout, made contact with the water drop, and brought it to its mouth. The tongue made clear physical contact with the water, and the mouse consumed the entire drop without spillage. The behavior demonstrates full retrieval and consumption of the reward.  
+6. Timeline of key events:  
+0:00 - 0:48: The mouse remains stationary with both paws on the platform, head fixed, and no water drop visible.  
+0:49 - 1:00: The water drop appears on the spout, and the mouse begins to lift its right paw.  
+1:01 - 1:10: The right paw reaches the spout and makes contact with the water drop.  
+1:11 - 1:20: The mouse lifts the water drop with its paw and brings it toward its mouth.  
+1:21 - 1:30: The tongue makes contact with the water drop, and the mouse begins to lick.  
+1:31 - 4:45: The mouse continues to consume the water drop, with the paw and tongue working in coordination. The drop is fully consumed.  
+7. Confidence: 95%", Confidence: 95%
