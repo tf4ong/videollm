@@ -1,0 +1,1991 @@
+name,trial,cam,event,outcome,raw_answers,tongue_contact,water_drop_stable,water_spilled,outcome_classification,justification
+FJ_L3_2024-06-29_1,0,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.8s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw off the surface and moves it towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""3.9s - 4.5s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""4.6s - 5.2s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, to its mouth. The left paw is also brought up.""
+    },
+    {
+      ""time_range"": ""5.3s - 9.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the water from its paw, consuming the entire drop.""
+    },
+    {
+      ""time_range"": ""9.6s - 10.0s"",
+      ""event_classification"": ""Paws return to rest"",
+      ""event_description"": ""After consuming the water, the mouse lowers both paws back to the resting surface.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked it completely without any visible spillage."
+FJ_L3_2024-06-29_1,1,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": true,
+  ""percentage_consumed"": 85,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the water drop, brought the paw to its mouth, and its tongue made contact with the paw to consume the majority of the water. A small portion of the water was spilled during retrieval."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw off the surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, which adheres to the paw.""
+    },
+    {
+      ""time_range"": ""4.0s - 5.0s"",
+      ""event_classification"": ""Water retrieval and spill"",
+      ""event_description"": ""The mouse retracts its paw towards its mouth. A small piece of the water drop falls from the paw onto the surface below.""
+    },
+    {
+      ""time_range"": ""5.0s - 8.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its right paw to its mouth, and its tongue extends to lick the water from the paw. The left paw is also raised to assist.""
+    },
+    {
+      ""time_range"": ""8.0s - 9.0s"",
+      ""event_classification"": ""Paws return to rest"",
+      ""event_description"": ""After consuming the water, the mouse lowers both paws back to the resting position.""
+    }
+  ]
+}",True,True,True,Successful,"The mouse successfully used its right paw to retrieve the water drop, brought the paw to its mouth, and its tongue made contact with the paw to consume the majority of the water. A small portion of the water was spilled during retrieval."
+FJ_L3_2024-06-29_1,2,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,3,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.2s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.2s"",
+      ""event_classification"": ""Paw reaches for water"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it directly towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""3.3s - 3.6s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw, detaching cleanly from the spout.""
+    },
+    {
+      ""time_range"": ""3.7s - 4.8s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its open mouth.""
+    },
+    {
+      ""time_range"": ""4.9s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse's tongue repeatedly extends and makes contact with the paw, consuming the water drop. Both paws are used to stabilize the right paw during licking.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked it completely without any visible spillage."
+FJ_L3_2024-06-29_1,4,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""1.8s - 2.8s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""A water drop forms on the spout. The mouse raises its right paw and makes contact with the drop, which fully adheres to the paw.""
+    },
+    {
+      ""time_range"": ""2.8s - 4.2s"",
+      ""event_classification"": ""Paw brings water to mouth"",
+      ""event_description"": ""The mouse retracts its right paw, bringing the water drop directly to its mouth area.""
+    },
+    {
+      ""time_range"": ""4.2s - 8.5s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse extends its tongue, makes contact with the water on its paw, and proceeds to lick the paw until the entire water drop is consumed. The left paw is also brought towards the mouth to support the action.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,5,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.2s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and pulls the entire drop cleanly off the spout.""
+    },
+    {
+      ""time_range"": ""3.3s - 3.8s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""3.9s - 8.0s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its paw, consuming the water drop until it is no longer visible.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,6,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.2s"",
+      ""event_classification"": ""Paw retrieves water drop"",
+      ""event_description"": ""The mouse's right paw moves towards the spout, makes contact with the water drop, and collects the entire drop.""
+    },
+    {
+      ""time_range"": ""3.3s - 4.0s"",
+      ""event_classification"": ""Paw brings water to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, directly to its open mouth.""
+    },
+    {
+      ""time_range"": ""4.1s - 9.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the water from its paw, consuming the entire drop.""
+    },
+    {
+      ""time_range"": ""9.6s - 10.2s"",
+      ""event_classification"": ""Paw moves from mouth"",
+      ""event_description"": ""After consuming the water, the mouse moves its paw away from its mouth.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,7,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely with its tongue without spilling any."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and stabilizes on the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw reaches for water"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop, which adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.0s - 9.0s"",
+      ""event_classification"": ""Water consumption"",
+      ""event_description"": ""The mouse brings its paw to its mouth and extends its tongue to lick the water. The water drop visibly diminishes until it is completely consumed.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely with its tongue without spilling any."
+FJ_L3_2024-06-29_1,8,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,9,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,10,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and consumed the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.4s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout. The mouse is at rest.""
+    },
+    {
+      ""time_range"": ""2.5s - 4.2s"",
+      ""event_classification"": ""Paw reaches for water"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it directly towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""4.3s - 5.0s"",
+      ""event_classification"": ""Water drop retrieval"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw, detaching cleanly from the spout.""
+    },
+    {
+      ""time_range"": ""5.1s - 8.5s"",
+      ""event_classification"": ""Water consumption from paw"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, into its open mouth. The tongue is visible making contact with the paw to consume the water.""
+    },
+    {
+      ""time_range"": ""8.6s - 9.8s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""After consuming the water, the mouse retracts its paw from its mouth and returns it to the resting position.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and consumed the water without any visible spillage."
+FJ_L3_2024-06-29_1,11,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw, consuming the entire drop without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A single water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.6s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it directly towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""3.6s - 4.2s"",
+      ""event_classification"": ""Water drop retrieval"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire volume of the drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""4.2s - 4.9s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse retracts its right paw, carrying the water drop, and brings it to its mouth.""
+    },
+    {
+      ""time_range"": ""4.9s - 8.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and makes repeated contact with its paw, consuming the water.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw, consuming the entire drop without any visible spillage."
+FJ_L3_2024-06-29_1,12,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw reaches for water"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, detaching the entire drop from the spout.""
+    },
+    {
+      ""time_range"": ""4.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its paw to its mouth and repeatedly extends its tongue to lick the paw, consuming the water.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,13,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,14,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth without spilling, and consumed it completely by licking its paw."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout. The mouse's right paw is on the floor.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.2s"",
+      ""event_classification"": ""Paw reaches for water"",
+      ""event_description"": ""The mouse lifts its right paw and moves it directly towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""3.3s - 3.8s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.9s - 4.8s"",
+      ""event_classification"": ""Paw retracts to mouth"",
+      ""event_description"": ""The mouse brings its right paw, carrying the water drop, directly to its mouth. No water is visibly spilled.""
+    },
+    {
+      ""time_range"": ""4.9s - 6.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and makes full contact with its paw, engulfing and consuming the water drop.""
+    },
+    {
+      ""time_range"": ""6.6s - 7.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""After the tongue retracts, the mouse lowers its right paw back to the floor.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth without spilling, and consumed it completely by licking its paw."
+FJ_L3_2024-06-29_1,15,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop with its right paw, brought the paw to its mouth, and its tongue was observed making direct contact with the paw to consume the water. No spillage was visible during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""00:02s - 00:03s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""00:03s - 00:04s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""00:04s - 00:05s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""00:05s - 00:08s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its paw to its mouth, and its tongue is visibly extended, making repeated contact with the paw to consume the water.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop with its right paw, brought the paw to its mouth, and its tongue was observed making direct contact with the paw to consume the water. No spillage was visible during the process."
+FJ_L3_2024-06-29_1,16,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.8s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it directly towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""3.9s - 4.2s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The right paw makes contact with the water drop, and the entire drop adheres to the paw as it is pulled away from the spout.""
+    },
+    {
+      ""time_range"": ""4.3s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its right paw to its mouth, and the tongue is extended to lick the water from the paw repeatedly until it is consumed.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,17,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout and bring it to its mouth for consumption. No spillage was observed during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.5s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop, which adheres completely to the paw.""
+    },
+    {
+      ""time_range"": ""3.6s - 4.6s"",
+      ""event_classification"": ""Paw brings water to mouth"",
+      ""event_description"": ""The mouse retracts its paw, carrying the water drop, and brings it directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.7s - 5.5s"",
+      ""event_classification"": ""Water consumed from paw"",
+      ""event_description"": ""The paw is held at the mouth, and the water drop disappears, indicating consumption. The paw is then lowered.""
+    }
+  ]
+}",True,True,False,Successful,The mouse successfully used its right paw to retrieve the entire water drop from the spout and bring it to its mouth for consumption. No spillage was observed during the process.
+FJ_L3_2024-06-29_1,18,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.5s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.6s - 4.5s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.6s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its right paw to consume the water. The left paw is also brought up to stabilize the right paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."
+FJ_L3_2024-06-29_1,19,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked all the visible water from its paw. No water was spilled during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Mouse at rest"",
+      ""event_description"": ""The mouse is in its initial resting position with both paws on the floor.""
+    },
+    {
+      ""time_range"": ""2.1s - 2.9s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""3.0s - 3.5s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse's right paw lifts from the surface, moves towards the spout, and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.6s - 4.5s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, directly to its open mouth.""
+    },
+    {
+      ""time_range"": ""4.6s - 7.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and makes repeated contact with its right paw, consuming the water. The water on the paw visibly disappears.""
+    },
+    {
+      ""time_range"": ""7.6s - 8.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""The mouse lowers its right paw back to the resting position. No water is visible on the paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked all the visible water from its paw. No water was spilled during the process."
+FJ_L3_2024-06-29_1,20,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely with no visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw retrieves water drop"",
+      ""event_description"": ""The right paw makes contact with the water drop, and the entire drop adheres to the paw as it is pulled away from the spout.""
+    },
+    {
+      ""time_range"": ""4.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its right paw to its mouth, and the tongue is visibly extended to lick the water from the paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely with no visible spillage."
+FJ_L3_2024-06-29_1,21,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely with no visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.1s - 3.2s"",
+      ""event_classification"": ""Paw retrieves water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop, successfully transferring the entire drop to its paw.""
+    },
+    {
+      ""time_range"": ""3.3s - 4.5s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, towards its mouth.""
+    },
+    {
+      ""time_range"": ""4.6s - 6.5s"",
+      ""event_classification"": ""Water drop consumed"",
+      ""event_description"": ""The mouse holds its paw to its mouth, and the water drop is consumed. By the end of this period, the paw appears dry.""
+    },
+    {
+      ""time_range"": ""6.6s - 7.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""The mouse lowers its right paw back to the resting surface.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely with no visible spillage."
+FJ_L3_2024-06-29_1,22,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw to consume the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.4s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.5s - 4.5s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.6s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the water from its paw, consuming the entire drop.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw to consume the water without any visible spillage."
+FJ_L3_2024-06-29_1,23,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the water off its paw without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.1s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.1s - 2.4s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""2.4s - 3.0s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse retracts its right paw, bringing the water-covered paw to its mouth.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and makes repeated contact with its paw, consuming the water.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the water off its paw without any visible spillage."
+FJ_L3_2024-06-29_1,24,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": true,
+  ""percentage_consumed"": 85,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the water drop from the spout, brought it to its mouth, and licked the paw. Although a small amount of water was spilled during the transfer, the majority of the drop was consumed."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A single, stable water drop forms at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw off the surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, which then adheres to the paw.""
+    },
+    {
+      ""time_range"": ""4.0s - 9.0s"",
+      ""event_classification"": ""Paw retraction and consumption"",
+      ""event_description"": ""The mouse brings its right paw to its mouth and extends its tongue to lick the water from the paw.""
+    },
+    {
+      ""time_range"": ""9.0s - 10.0s"",
+      ""event_classification"": ""Water is spilled"",
+      ""event_description"": ""A small portion of the water falls from the mouse's paw onto the surface below as it finishes consuming.""
+    }
+  ]
+}",True,True,True,Successful,"The mouse successfully used its right paw to retrieve the water drop from the spout, brought it to its mouth, and licked the paw. Although a small amount of water was spilled during the transfer, the majority of the drop was consumed."
+FJ_L3_2024-06-29_1,25,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,26,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,27,camB,Reward,,"{
+    ""tongue_contact"": true,
+    ""water_drop_stable"": true,
+    ""water_spilled"": false,
+    ""percentage_consumed"": 100,
+    ""outcome_classification"": ""Successful"",
+    ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout. It then brought the paw to its mouth and consumed the water completely with its tongue. No spillage was observed during the retrieval or consumption."",
+    ""timeline"": [
+        {
+            ""time_range"": ""0.0s - 2.5s"",
+            ""event_classification"": ""Water drop formation"",
+            ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+        },
+        {
+            ""time_range"": ""2.6s - 3.4s"",
+            ""event_classification"": ""Paw contacts water"",
+            ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw.""
+        },
+        {
+            ""time_range"": ""3.5s - 4.2s"",
+            ""event_classification"": ""Paw moves to mouth"",
+            ""event_description"": ""The mouse brings its right paw, carrying the water drop, directly to its mouth.""
+        },
+        {
+            ""time_range"": ""4.3s - 10.0s"",
+            ""event_classification"": ""Tongue consumes water"",
+            ""event_description"": ""The mouse's tongue extends and makes repeated contact with the paw, consuming the entire water drop.""
+        }
+    ]
+}",True,True,False,Successful,The mouse successfully used its right paw to retrieve the entire water drop from the spout. It then brought the paw to its mouth and consumed the water completely with its tongue. No spillage was observed during the retrieval or consumption.
+FJ_L3_2024-06-29_1,28,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw clean without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.2s - 2.8s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop is dispensed from the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.9s - 3.4s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse lifts its right paw from the platform, moves it towards the spout, and makes contact with the water drop.""
+    },
+    {
+      ""time_range"": ""3.5s - 4.1s"",
+      ""event_classification"": ""Paw brings water to mouth"",
+      ""event_description"": ""The mouse retracts its right paw, carrying the entire water drop, towards its mouth.""
+    },
+    {
+      ""time_range"": ""4.2s - 7.0s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse extends its tongue and makes repeated contact with its right paw, consuming the water drop completely.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw clean without any visible spillage."
+FJ_L3_2024-06-29_1,29,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and was observed licking its paw to consume the water completely. No spillage was visible during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 0.5s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms on the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""0.5s - 0.6s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""0.6s - 0.7s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, carrying the water drop, towards its mouth.""
+    },
+    {
+      ""time_range"": ""0.7s - 1.0s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse extends its tongue and makes repeated contact with its paw, consuming the entire water drop.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and was observed licking its paw to consume the water completely. No spillage was visible during the process."
+FJ_L3_2024-06-29_1,30,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop on its right paw, brought it to its mouth, and licked it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.0s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.1s - 3.8s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""3.9s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks the water from its right paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop on its right paw, brought it to its mouth, and licked it completely without any visible spillage."
+FJ_L3_2024-06-29_1,31,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw to consume the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""1.9s - 2.2s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.2s - 2.6s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw, detaching cleanly from the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.2s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""3.2s - 9.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue repeatedly, making contact with its paw to consume the water drop. The drop is visibly consumed over this period.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw to consume the water without any visible spillage."
+FJ_L3_2024-06-29_1,32,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw, consuming the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it towards the water spout where a drop is forming.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw brings water to mouth"",
+      ""event_description"": ""The mouse retracts its right paw, bringing the captured water drop directly to its open mouth.""
+    },
+    {
+      ""time_range"": ""4.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the water from its right paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw, consuming the water without any visible spillage."
+FJ_L3_2024-06-29_1,33,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the paw until all visible water was consumed. No water was spilled during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Mouse at rest"",
+      ""event_description"": ""The mouse is in a resting position with its paws on the platform.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw. The paw is then brought towards the mouth.""
+    },
+    {
+      ""time_range"": ""4.0s - 8.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse holds its paw to its mouth while its tongue repeatedly extends and makes contact with the paw, consuming the water.""
+    },
+    {
+      ""time_range"": ""8.0s - 9.0s"",
+      ""event_classification"": ""Paw retracts"",
+      ""event_description"": ""The mouse moves its paw away from its mouth. No visible water remains on the paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the paw until all visible water was consumed. No water was spilled during the process."
+FJ_L3_2024-06-29_1,34,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw until the drop was no longer visible. No water was observed to be spilled during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""The mouse is at rest. A water drop forms and remains stable on the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw, reaches towards the spout, and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its right paw holding the water drop to its mouth. The tongue is repeatedly extended to lick the paw, consuming the water drop until it is no longer visible.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw until the drop was no longer visible. No water was observed to be spilled during the process."
+FJ_L3_2024-06-29_1,35,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it without any visible spillage. The tongue was observed making direct contact with the paw holding the water."",
+  ""timeline"": [
+    {
+      ""time_range"": ""00:01 - 00:02"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the spout.""
+    },
+    {
+      ""time_range"": ""00:02 - 00:03"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""00:03 - 00:04"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, directly to its mouth. The tongue extends and makes contact with the paw.""
+    },
+    {
+      ""time_range"": ""00:04 - 00:08"",
+      ""event_classification"": ""Paw grooming"",
+      ""event_description"": ""After the initial consumption, the mouse brings both paws together in front of its mouth and licks them.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it without any visible spillage. The tongue was observed making direct contact with the paw holding the water."
+FJ_L3_2024-06-29_1,36,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,37,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes direct contact with the water drop, which adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw brings water to mouth"",
+      ""event_description"": ""The mouse retracts its right paw, bringing the entire water drop to its mouth.""
+    },
+    {
+      ""time_range"": ""4.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its paw, consuming the water.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it without any visible spillage."
+FJ_L3_2024-06-29_1,38,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed all of it without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 1.8s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout. The mouse's paws are at rest.""
+    },
+    {
+      ""time_range"": ""1.9s - 2.4s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""2.5s - 3.1s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth area.""
+    },
+    {
+      ""time_range"": ""3.2s - 10.0s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its paw, consuming the water. By the end of the sequence, no water is visible on the paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed all of it without any visible spillage."
+FJ_L3_2024-06-29_1,39,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Mouse at rest"",
+      ""event_description"": ""The mouse is in its initial resting position with both paws on the platform.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A single water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, reaches towards the spout, and makes full contact with the water drop, cupping it.""
+    },
+    {
+      ""time_range"": ""4.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its right paw to its mouth and extends its tongue to lick the water from the paw. The water drop is visibly consumed over this period.""
+    },
+    {
+      ""time_range"": ""10.0s - 10.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""After consuming the water, the mouse lowers its right paw back to the resting platform.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,40,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw reaches for water"",
+      ""event_description"": ""The mouse lifts its right paw and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw, detaching cleanly from the spout.""
+    },
+    {
+      ""time_range"": ""4.0s - 5.0s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the entire water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""5.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its paw, consuming the water until it is no longer visible.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,41,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse's right paw successfully retrieved the entire water drop from the spout, brought it to its mouth, and its tongue was observed making direct contact with the paw, consuming the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.0s - 2.8s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse lifts its right paw from the platform and makes contact with the water drop, which adheres to the paw.""
+    },
+    {
+      ""time_range"": ""2.8s - 3.5s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its open mouth.""
+    },
+    {
+      ""time_range"": ""3.5s - 4.8s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and makes repeated contact with its paw, consuming the entire water drop.""
+    },
+    {
+      ""time_range"": ""4.8s - 5.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""After consuming the water, the mouse lowers its right paw back to the resting platform.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse's right paw successfully retrieved the entire water drop from the spout, brought it to its mouth, and its tongue was observed making direct contact with the paw, consuming the water without any visible spillage."
+FJ_L3_2024-06-29_1,42,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely by licking its paw. No water was spilled during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.0s - 2.5s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse lifts its right paw, reaches towards the spout, and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""2.5s - 3.5s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""3.5s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the water from its paw, consuming the entire drop. The drop visibly diminishes until it is gone.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely by licking its paw. No water was spilled during the process."
+FJ_L3_2024-06-29_1,43,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout. It then brought the paw to its mouth and licked it clean, consuming all the water with no visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 1.8s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""1.8s - 2.5s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop, collecting the entire drop onto its paw.""
+    },
+    {
+      ""time_range"": ""2.5s - 3.8s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, towards its mouth. The left paw is also raised to help stabilize the right paw.""
+    },
+    {
+      ""time_range"": ""3.8s - 9.2s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks the water from its right paw, consuming the entire amount.""
+    },
+    {
+      ""time_range"": ""9.2s - 10.0s"",
+      ""event_classification"": ""Paw moves from mouth"",
+      ""event_description"": ""After consuming the water, the mouse moves its paw away from its mouth.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout. It then brought the paw to its mouth and licked it clean, consuming all the water with no visible spillage."
+FJ_L3_2024-06-29_1,44,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""00:02s - 00:03s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""00:03s - 00:03s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""00:03s - 00:04s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, now holding the water, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""00:04s - 00:10s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its right paw, consuming the water.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."
+FJ_L3_2024-06-29_1,45,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the paw to consume the water completely without any spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 0.2s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and stabilizes at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""0.3s - 0.4s"",
+      ""event_classification"": ""Paw reaches for water"",
+      ""event_description"": ""The mouse lifts its right paw and moves it directly towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""0.4s - 0.5s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The right paw makes contact with the water drop, which adheres to it completely. The paw is then brought towards the mouth.""
+    },
+    {
+      ""time_range"": ""0.5s - 1.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse holds its paw to its mouth and extends its tongue multiple times to lick the water from the paw. The water drop is visibly consumed.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the paw to consume the water completely without any spillage."
+FJ_L3_2024-06-29_1,46,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse's right paw lifts, moves towards the spout, and makes contact with the water drop, successfully collecting the entire drop.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.0s - 10.0s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse extends its tongue multiple times, making direct contact with the paw and consuming the water drop until it is no longer visible.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,47,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout. It then brought the paw to its mouth, and its tongue made full contact, consuming the entire drop without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout. The mouse begins to lift its right paw.""
+    },
+    {
+      ""time_range"": ""2.5s - 3.2s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.2s - 4.1s"",
+      ""event_classification"": ""Paw brings water to mouth"",
+      ""event_description"": ""The mouse retracts its paw, carrying the entire water drop, towards its open mouth.""
+    },
+    {
+      ""time_range"": ""4.1s - 10.0s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse's tongue extends and makes direct contact with the water on its paw, consuming the entire drop. The mouse continues to lick its paw after the initial contact.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout. It then brought the paw to its mouth, and its tongue made full contact, consuming the entire drop without any visible spillage."
+FJ_L3_2024-06-29_1,48,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and its tongue made contact with the paw, consuming the entire drop without spilling."",
+  ""timeline"": [
+    {
+      ""time_range"": ""2.1s - 2.8s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.9s - 3.5s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw off the surface, reaches for the spout, and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.6s - 4.5s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.0s - 4.6s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse's tongue is visibly extended and makes direct contact with the paw, consuming the entire water drop.""
+    },
+    {
+      ""time_range"": ""4.7s - 8.5s"",
+      ""event_classification"": ""Post-retrieval grooming"",
+      ""event_description"": ""After consuming the water, the mouse continues to lick its right paw.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and its tongue made contact with the paw, consuming the entire drop without spilling."
+FJ_L3_2024-06-29_1,49,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it directly to its mouth, and consumed it completely with its tongue. No spillage was observed during the process."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 1.8s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable. The mouse's right paw is already raised.""
+    },
+    {
+      ""time_range"": ""1.9s - 2.5s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop. The entire drop adheres to the paw and is lifted cleanly from the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.5s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its open mouth.""
+    },
+    {
+      ""time_range"": ""3.6s - 10.0s"",
+      ""event_classification"": ""Tongue consumes water"",
+      ""event_description"": ""The mouse's tongue extends and makes repeated contact with the paw, consuming the entire water drop. The paw is held steadily at the mouth throughout.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it directly to its mouth, and consumed it completely with its tongue. No spillage was observed during the process."
+FJ_L3_2024-06-29_1,50,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked it completely off the paw without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.8s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.8s - 3.5s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.5s - 4.2s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""4.2s - 5.0s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""5.0s - 6.2s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse's tongue is visibly extended and makes repeated contact with the paw, consuming the water.""
+    },
+    {
+      ""time_range"": ""6.2s - 7.0s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""The mouse lowers its right paw back to its resting position.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked it completely off the paw without any visible spillage."
+FJ_L3_2024-06-29_1,51,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw clean, consuming the entire drop without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the spout.""
+    },
+    {
+      ""time_range"": ""2.1s - 3.0s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.1s - 4.0s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.1s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks the water from its paw, consuming the entire drop.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw clean, consuming the entire drop without any visible spillage."
+FJ_L3_2024-06-29_1,52,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": true,
+  ""percentage_consumed"": 30,
+  ""outcome_classification"": ""Failed"",
+  ""justification"": ""The mouse successfully retrieved the water drop with its paw, but a significant portion of the drop was spilled as it was brought to the mouth. The mouse only consumed the small amount of water that remained on its paw."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 1.0s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse's right paw lifts from the surface and moves towards the water drop as it forms on the spout.""
+    },
+    {
+      ""time_range"": ""1.0s - 2.0s"",
+      ""event_classification"": ""Paw retrieves water drop"",
+      ""event_description"": ""The right paw makes contact with the water drop, and the entire drop adheres to the paw. The paw is then brought towards the mouth.""
+    },
+    {
+      ""time_range"": ""2.0s - 3.0s"",
+      ""event_classification"": ""Water drop is spilled"",
+      ""event_description"": ""As the mouse begins to lick the water from its paw, a large portion of the water drop detaches and falls away from the mouse's mouth.""
+    },
+    {
+      ""time_range"": ""3.0s - 10.0s"",
+      ""event_classification"": ""Tongue licks remaining water"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the small amount of water remaining on its right paw after the spill.""
+    }
+  ]
+}",True,True,True,Failed,"The mouse successfully retrieved the water drop with its paw, but a significant portion of the drop was spilled as it was brought to the mouth. The mouse only consumed the small amount of water that remained on its paw."
+FJ_L3_2024-06-29_1,53,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the water from its paw without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A single water drop forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.3s"",
+      ""event_classification"": ""Paw retrieves water drop"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw, detaching cleanly from the spout.""
+    },
+    {
+      ""time_range"": ""3.4s - 4.0s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.1s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse's tongue repeatedly extends and makes contact with the paw, consuming the water. The volume of water on the paw visibly decreases until it is gone.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the water from its paw without any visible spillage."
+FJ_L3_2024-06-29_1,54,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the water off without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Mouse at rest"",
+      ""event_description"": ""The mouse is in its initial resting position with both paws on the platform.""
+    },
+    {
+      ""time_range"": ""2.5s - 3.2s"",
+      ""event_classification"": ""Water drop appears"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""3.2s - 3.8s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw, touches the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.8s - 4.5s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, carrying the water, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.5s - 7.2s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue multiple times, making contact with its paw to consume the water. The water drop is no longer visible on the paw.""
+    },
+    {
+      ""time_range"": ""7.2s - 8.5s"",
+      ""event_classification"": ""Paws return to rest"",
+      ""event_description"": ""The mouse lowers its paws back to the resting position on the platform.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the water off without any visible spillage."
+FJ_L3_2024-06-29_1,55,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout. The mouse is at rest.""
+    },
+    {
+      ""time_range"": ""2.1s - 3.0s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.1s - 3.5s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The right paw makes contact with the water drop, which detaches from the spout and adheres completely to the paw.""
+    },
+    {
+      ""time_range"": ""3.6s - 4.2s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its open mouth.""
+    },
+    {
+      ""time_range"": ""4.3s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue, making contact with the water on its paw and consuming it. The water drop visibly diminishes until it is gone.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."
+FJ_L3_2024-06-29_1,56,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it directly to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and becomes stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.8s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""3.9s - 4.2s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""4.3s - 4.8s"",
+      ""event_classification"": ""Paw brought to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.9s - 10.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its paw, consuming the water drop.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it directly to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,57,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""2.0s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.8s - 3.5s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop, which adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.5s - 5.0s"",
+      ""event_classification"": ""Paw retrieval to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, towards its mouth.""
+    },
+    {
+      ""time_range"": ""5.0s - 7.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and repeatedly licks its right paw, consuming the water.""
+    },
+    {
+      ""time_range"": ""7.5s - 8.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""The mouse lowers its right paw back to the resting surface.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw to consume the water without any visible spillage."
+FJ_L3_2024-06-29_1,58,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw until the water was visibly gone, with no spillage observed."",
+  ""timeline"": [
+    {
+      ""time_range"": ""00:02s - 00:03s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""00:03s - 00:04s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""00:04s - 00:10s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its paw to its mouth, and its tongue repeatedly extends to lick the water from the paw. The water drop visibly diminishes until it is gone.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked its paw until the water was visibly gone, with no spillage observed."
+FJ_L3_2024-06-29_1,59,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely by licking the paw."",
+  ""timeline"": [
+    {
+      ""time_range"": ""2.1s - 2.6s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.1s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw from the platform and makes contact with the water drop, which adheres entirely to the paw.""
+    },
+    {
+      ""time_range"": ""3.1s - 4.0s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.0s - 9.8s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the water from its paw, consuming the entire drop until the paw is visibly dry.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely by licking the paw."
+FJ_L3_2024-06-29_1,60,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""2.0s - 2.5s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A water drop fully forms at the tip of the spout and remains stable.""
+    },
+    {
+      ""time_range"": ""3.9s - 4.8s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the resting surface and moves it towards the water drop.""
+    },
+    {
+      ""time_range"": ""4.8s - 5.2s"",
+      ""event_classification"": ""Paw collects water"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw, detaching cleanly from the spout.""
+    },
+    {
+      ""time_range"": ""5.2s - 5.6s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""5.6s - 9.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse repeatedly extends its tongue to lick the water from its paw, consuming the entire drop.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and consumed it completely without any visible spillage."
+FJ_L3_2024-06-29_1,61,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth without spilling, and its tongue was observed making repeated contact with the paw to consume the water."",
+  ""timeline"": [
+    {
+      ""time_range"": ""00:01s - 00:02s"",
+      ""event_classification"": ""Water drop forms"",
+      ""event_description"": ""A single water drop forms at the tip of the spout and remains attached.""
+    },
+    {
+      ""time_range"": ""00:02s - 00:03s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop, which adheres to the paw in its entirety.""
+    },
+    {
+      ""time_range"": ""00:03s - 00:04s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, carrying the water, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""00:04s - 00:10s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse's tongue is visibly extended and makes repeated contact with the paw, consuming the water.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth without spilling, and its tongue was observed making repeated contact with the paw to consume the water."
+FJ_L3_2024-06-29_1,62,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,63,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw clean, consuming the entire drop with no visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Mouse at rest"",
+      ""event_description"": ""The mouse is in its initial resting position with both paws on the surface.""
+    },
+    {
+      ""time_range"": ""2.1s - 2.8s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A single water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.9s - 3.4s"",
+      ""event_classification"": ""Paw retrieves water drop"",
+      ""event_description"": ""The mouse lifts its right paw, makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""3.5s - 4.2s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, carrying the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""4.3s - 6.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse's tongue makes repeated contact with the paw, consuming the water. The water drop is no longer visible on the paw after this action.""
+    },
+    {
+      ""time_range"": ""6.6s - 7.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""The mouse lowers its right paw back to the resting surface.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought it to its mouth, and licked the paw clean, consuming the entire drop with no visible spillage."
+FJ_L3_2024-06-29_1,64,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely with no visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.2s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and stabilizes at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.2s - 2.8s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop, collecting the entire volume onto its paw.""
+    },
+    {
+      ""time_range"": ""2.8s - 3.5s"",
+      ""event_classification"": ""Paw moves to mouth"",
+      ""event_description"": ""The mouse brings its right paw, holding the water drop, directly to its mouth.""
+    },
+    {
+      ""time_range"": ""3.5s - 6.5s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse extends its tongue and licks the water from its paw. The water drop is visibly consumed until it is no longer visible.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully retrieved the entire water drop with its right paw, brought it to its mouth, and consumed it completely with no visible spillage."
+FJ_L3_2024-06-29_1,65,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,66,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": true,
+  ""percentage_consumed"": 85,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the majority of the water drop from the spout and brought it to its mouth. The tongue was then observed making direct contact with the paw to consume the water."",
+  ""timeline"": [
+    {
+      ""time_range"": ""0.0s - 2.0s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable on the tip of the spout.""
+    },
+    {
+      ""time_range"": ""3.0s - 4.0s"",
+      ""event_classification"": ""Paw contacts water"",
+      ""event_description"": ""The mouse's right paw lifts from the surface and makes contact with the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""4.0s - 5.0s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The paw moves the water drop from the spout towards the mouth. A small portion of the water is visibly spilled during this motion.""
+    },
+    {
+      ""time_range"": ""5.0s - 6.0s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse's tongue extends and makes clear contact with the paw, consuming the retrieved water.""
+    }
+  ]
+}",True,True,True,Successful,The mouse successfully used its right paw to retrieve the majority of the water drop from the spout and brought it to its mouth. The tongue was then observed making direct contact with the paw to consume the water.
+FJ_L3_2024-06-29_1,67,camB,Reward,,"{
+  ""tongue_contact"": false,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 0,
+  ""outcome_classification"": ""Failed"",
+  ""justification"": ""The mouse successfully retrieved the water drop with its paw, but the video ends before the paw reaches the mouth and before any tongue-to-paw contact can be observed. Therefore, consumption cannot be confirmed."",
+  ""timeline"": [
+    {
+      ""time_range"": ""2.1s - 9.8s"",
+      ""event_classification"": ""Water drop stable"",
+      ""event_description"": ""A water drop is fully formed and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""9.9s - 10.1s"",
+      ""event_classification"": ""Paw contacts water drop"",
+      ""event_description"": ""The mouse lifts its right paw and makes contact with the water drop. The entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""10.1s - 10.3s"",
+      ""event_classification"": ""Paw retracts towards mouth"",
+      ""event_description"": ""The mouse begins to retract its paw with the water drop towards its mouth. The video ends before the action is complete.""
+    }
+  ]
+}",False,True,False,Failed,"The mouse successfully retrieved the water drop with its paw, but the video ends before the paw reaches the mouth and before any tongue-to-paw contact can be observed. Therefore, consumption cannot be confirmed."
+FJ_L3_2024-06-29_1,68,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,69,camB,Reward,,"{
+  ""tongue_contact"": true,
+  ""water_drop_stable"": true,
+  ""water_spilled"": false,
+  ""percentage_consumed"": 100,
+  ""outcome_classification"": ""Successful"",
+  ""justification"": ""The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the water off its paw without any visible spillage."",
+  ""timeline"": [
+    {
+      ""time_range"": ""1.8s - 2.5s"",
+      ""event_classification"": ""Water drop formation"",
+      ""event_description"": ""A water drop forms and remains stable at the tip of the spout.""
+    },
+    {
+      ""time_range"": ""2.6s - 3.8s"",
+      ""event_classification"": ""Paw reaches for spout"",
+      ""event_description"": ""The mouse lifts its right paw from the surface and moves it directly towards the water drop on the spout.""
+    },
+    {
+      ""time_range"": ""3.9s - 4.5s"",
+      ""event_classification"": ""Paw retrieves water"",
+      ""event_description"": ""The mouse's right paw makes contact with the water drop, and the entire drop adheres to the paw.""
+    },
+    {
+      ""time_range"": ""4.6s - 5.8s"",
+      ""event_classification"": ""Tongue licks paw"",
+      ""event_description"": ""The mouse brings its right paw to its mouth, and its tongue extends to lick the water from the paw.""
+    },
+    {
+      ""time_range"": ""5.9s - 6.5s"",
+      ""event_classification"": ""Paw returns to rest"",
+      ""event_description"": ""After consuming the water, the mouse lowers its right paw back to the resting surface.""
+    }
+  ]
+}",True,True,False,Successful,"The mouse successfully used its right paw to retrieve the entire water drop from the spout, brought the paw to its mouth, and licked the water off its paw without any visible spillage."
+FJ_L3_2024-06-29_1,70,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,71,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,72,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,73,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,74,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,75,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,76,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,77,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,78,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,79,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,80,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,81,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,82,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,83,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,84,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,85,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,86,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,87,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,88,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,89,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,90,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,91,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,92,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,93,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,94,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,95,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,96,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,97,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,98,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,99,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,100,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,101,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,102,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,103,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,104,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,105,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,106,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,107,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,108,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,109,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,110,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,111,camB,No_reward,nd,,,,,,
+FJ_L3_2024-06-29_1,112,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,113,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,114,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,115,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,116,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,117,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,118,camB,Reward,na,,,,,,
+FJ_L3_2024-06-29_1,119,camB,Reward,na,,,,,,

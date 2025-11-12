@@ -1,0 +1,53 @@
+file_name,answer,drop2,drop3,drop4
+1000012989.jpg,"There are a total of **4** droplets detected in the image.
+
+The smallest droplet is the one at the very top of the vertical line of droplets.
+
+Here are the other droplets with their estimated area relative to the smallest one:
+
+*   **Droplet 2 (second from top):** 1.5× the area of the smallest droplet.
+*   **Droplet 3 (third from top):** 3.0× the area of the smallest droplet.
+*   **Droplet 4 (bottom):** 7.0× the area of the smallest droplet.",1.5,3,7
+1000012988.jpg,"There are a total of **4** distinct droplets in the image.
+
+The **smallest droplet** is the one at the very top.
+
+Here are the area estimates for the other droplets relative to the smallest one:
+
+*   **Droplet 2 (second from top):** 1.5× the area of the smallest droplet.
+*   **Droplet 3 (third from top):** 2.5× the area of the smallest droplet.
+*   **Droplet 4 (bottom):** 4.0× the area of the smallest droplet.",1.5,2.5,4
+1000012991.jpg,"```json
+[
+  {""box_2d"": [555, 538, 687, 686], ""label"": ""a droplet"", ""relative_area"": 7.3},
+  {""box_2d"": [426, 508, 524, 624], ""label"": ""a droplet"", ""relative_area"": 4.0},
+  {""box_2d"": [297, 467, 381, 555], ""label"": ""a droplet"", ""relative_area"": 2.0},
+  {""box_2d"": [207, 470, 269, 544], ""label"": ""the smallest droplet""}
+]
+```",2,4,7.3
+1000012987.jpg,"There are a total of **4** distinct droplets in the image. They are arranged in a vertical line, increasing in size from top to bottom.
+
+The **smallest droplet is the one at the very top** of the line.
+
+Here are the other droplets with their estimated areas relative to the smallest droplet:
+
+*   **Droplet 2 (second from top):** 2.3× larger
+*   **Droplet 3 (third from top):** 4.0× larger
+*   **Droplet 4 (bottom):** 6.3× larger",2.3,4,6.3
+1000012990.jpg,"```json
+[
+  {""box_2d"": [336, 459, 363, 508], ""label"": ""the smallest droplet""},
+  {""box_2d"": [426, 466, 487, 538], ""label"": ""droplet""},
+  {""box_2d"": [535, 454, 630, 560], ""label"": ""droplet""},
+  {""box_2d"": [657, 461, 775, 601], ""label"": ""droplet""}
+]
+```
+```text
+There are a total of 4 droplets.
+
+The smallest droplet is the topmost one.
+
+*   The second droplet from the top is approximately 1.7× the area of the smallest droplet.
+*   The third droplet from the top is approximately 4.0× the area of the smallest droplet.
+*   The bottommost droplet is approximately 7.5× the area of the smallest droplet.
+```",1.7,4,7.5
