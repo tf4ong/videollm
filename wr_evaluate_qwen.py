@@ -24,6 +24,11 @@ import os
 import pandas as pd
 from pathlib import Path
 import numpy as np
+
+
+
+#for full documentation, please refer to https://github.com/QwenLM/Qwen3-VL/
+
 model = AutoModelForImageTextToText.from_pretrained(
     "Qwen/Qwen3-VL-30B-A3B-Instruct", torch_dtype=torch.bfloat16, device_map="auto",attn_implementation="flash_attention_2"
 )
@@ -538,9 +543,9 @@ sys_instruct2 = instructions['sys_instruct2']
 sys_instruct3 = instructions['sys_instruct3']
 qs = instructions['questions']
 
-
+# path to video folders
 videos = ['AZ_R2_2024-12-14_1','K_R2_2025-02-04_1','FJ_R2_2024-07-15_1','FU_R2_2024-07-18_1','K_R2_2025-01-14_1','FJ_R2_2024-06-29_1',
-          'FJ_L2_2024-07-15_1','FJ_L3_2024-07-29_1','FJ_R3_2024-07-29_1']
+          'FJ_L2_2024-07-15_1','FJ_L3_2024-07-29_1','FJ_R3_2024-07-29_1'] 
 
 save_name = 'results_8b.csv'
 vid_dir = './vids'

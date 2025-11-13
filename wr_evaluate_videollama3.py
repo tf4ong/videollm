@@ -26,6 +26,10 @@ processor = AutoProcessor.from_pretrained(model_path, trust_remote_code=True)
 processor.image_processor.max_tokens = 65536 
 
 
+#for full documentation, please refer to https://github.com/DAMO-NLP-SG/VideoLLaMA3
+
+
+
 def convert_text(text_str):
     # Split on pattern like "1.", "2.", etc. at the start of a line
     bullet_points = re.split(r'\n(?=\d+\.)',text_str.strip())
